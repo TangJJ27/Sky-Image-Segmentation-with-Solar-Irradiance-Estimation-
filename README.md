@@ -9,6 +9,7 @@ Manually select time interval of the raw data required at [NREL raw data](https:
 Images are downloaded from
 [NREL raw image](https://midcdmz.nrel.gov/apps/imagergallery.pl?SRRLASI)  and processed automatically in the program.
 
+>> Andreas, A., & Stoffel, T. (1981). NREL Solar Radiation Research Laboratory (SRRL): Baseline Measurement System (BMS); Golden, Colorado (Data).
 ---
 # sky_image_ghi_estimation.ipynb
 The .ipynb file is divided into different sections:
